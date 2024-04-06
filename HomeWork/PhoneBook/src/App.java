@@ -145,5 +145,5 @@ class Printer {
 2={Petrov:[654321, 123456, 654321]}
 1={Ivanov:[123456, 654321]}
 3={Sidorov:[987654]}
-PS D:\!git_education\Git_advanced\Java_S6\HomeWork\PhoneBook>
+
  */
