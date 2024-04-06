@@ -134,17 +134,27 @@ class Printer {
     }
 }
 
-/* PowerShell 7.4.1
-PS D:\!git_education\Git_advanced\Java_S6\HomeWork\PhoneBook>  & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'D:\!git_education\Git_advanced\Java_S6\HomeWork\PhoneBook\bin' 'Printer'
+/* 
+
 **** User Ivanov with id(1) has 1 numbers
+
 **** User Ivanov with id(1) has 2 numbers
+
 **** User Petrov with id(2) has 1 numbers
+
 **** User Petrov with id(2) has 2 numbers
+
 **** User Petrov with id(2) has 3 numbers
+
 **** User Sidorov with id(3) has 1 numbers
 
+
 2={Petrov:[654321, 123456, 654321]}
+
 1={Ivanov:[123456, 654321]}
+
 3={Sidorov:[987654]}
+
 PS D:\!git_education\Git_advanced\Java_S6\HomeWork\PhoneBook>
+
 */
