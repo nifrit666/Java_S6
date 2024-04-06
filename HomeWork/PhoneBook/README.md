@@ -155,6 +155,4 @@ class Printer {
 
 3={Sidorov:[987654]}
 
-PS D:\!git_education\Git_advanced\Java_S6\HomeWork\PhoneBook>
-
 */
