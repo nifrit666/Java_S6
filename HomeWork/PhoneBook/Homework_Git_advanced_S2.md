@@ -77,3 +77,28 @@ $ git push -u origin 777-issue
 -	Влейте эти изменения и изменения из предыдущего задания в ветку master, и также отправьте в удалённый репозиторий
 -	Зайдите в удалённый репозиторий и просмотрите историю коммитов
 
+### Решение ###
+
+$ git blame main.js
+
+$ git log
+
+$ git diff fe4e2639663f50c652dc7dfcae7c715bba3e87f8 main.js
+
+(560a30066a37aff0f5d5badcf11304744dde74b5)
+
+$ git checkout -b count-words
+
+$ git revert 560a30066a37aff0f5d5badcf11304744dde74b5 (не правльно убрали)
+
+$ git reset --hard b25c31323d626977bfd5143cc411ff6d621956ad
+
+$ git push -u origin count-words
+
+$ git checkout master
+
+$ git merge 777-issue
+
+$ git merge count-words
+
+
