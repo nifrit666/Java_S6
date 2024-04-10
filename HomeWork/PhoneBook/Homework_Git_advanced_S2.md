@@ -28,6 +28,7 @@ $ git remote remove origin
 
 $ git remote add origin https://github.com/nifrit666/seminar-2.git
 
+<<<<<<< HEAD
 
 ## Задание №2 ##
 -	Найдите коммит, в котором в файле index.html был добавлен фрагмент class="fw-lighter" в строку 34 (используйте команду git blame)
@@ -112,3 +113,5 @@ $ git merge count-words
 
 
 
+=======
+>>>>>>> parent of 3018cb6 (Add Task 2)
